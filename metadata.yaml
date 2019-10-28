@@ -1,5 +1,8 @@
 _repo: Mr-Justice-Maxell_60527
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60527-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Edgar
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/999
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60527#Mr-Justice-Maxell
 gutenberg_issued: '2019-10-19'
 gutenberg_type: Text
 identifiers:
